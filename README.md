@@ -1,6 +1,8 @@
 # Eskom Smart System ⚡
-
-![Eskom Logo](static/images/eskom_logo2.jpg)
+![Eskom Logo](login.png)
+![Eskom Logo](dashboard.png)
+![Eskom Logo](dispatch.png)
+![Eskom Logo](technician.png)
 
 A comprehensive web-based platform for monitoring electricity usage, managing faults, dispatching technicians, and generating reports for efficient power grid management.
 
